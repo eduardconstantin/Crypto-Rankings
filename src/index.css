@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;700&display=swap');
+
+body {
+  background-color: rgba(9, 9, 15, 1) !important;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.page-title{
+  padding: 3rem;
+  text-transform: uppercase;
+}
+.page-title h1{
+  color: #f0ded0;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+.page-title p{
+  font-weight: 500;
+  color: #c79e80;
+  letter-spacing: 5px;
+}
+
+.crypto-card .card{
+  background-image: radial-gradient(#c79d800a 0.8px, #0d0d19 0.2px);
+  background-size: 6px 6px;
+  background-color: #0d0d19;
+  font-family: 'Oswald', sans-serif;
+  border: 1px solid #c79d8070;
+  color: #f0ded0;
+  transition: all 0.3s ease-in-out;
+}
+.crypto-card .card:hover{
+  transform: scale(1.05);
+}
+
+.crypto-card .card .title{
+  font-size: 1.75rem;
+  margin-top: 1.5rem;
+  background-color: transparent;
+  border: none;
+  text-transform: uppercase;
+}
+.crypto-card .card .title span{
+  display: block;
+  font-size: 1rem;
+  font-weight: 300;
+  opacity: 0.7;
+}
+
+.crypto-card .card .price{
+  color: rgb(41, 150, 41);
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.crypto-card .card .price h1{
+  font-size: 3.5rem;
+}
+.crypto-card .card .price h1 span{
+  opacity: 0.5;
+}
+
+.crypto-card .card .supply .progress{
+  background-color: #22222d;
+}
+.crypto-card .card .supply .progress .progress-bar{
+  background-color: #c79e80;
+  color: #22222d;
+  font-weight: 500;
+}
+
+.crypto-card .card .price-change .content{
+  background-color: #d0a2711a;
+  border-radius: 5px;
+  padding: 0.4rem 0.7rem;
+  border: 1px solid #f0ded0a8;
+}
+.crypto-card .card .price-change .content p:nth-child(2){
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.crypto-card .card .price-change .content p:nth-child(2) span{
+  opacity: 0.5;
+}
