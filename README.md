@@ -14,8 +14,8 @@ What I learned making this project:
 <img src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-desktop.png">
 
 ### Mobile
-<div style="display: flex; flex-direction: column;">
-  <img width="310px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile1.png">
-  <img width="310px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile2.png">
-  <img width="310px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile3.png">
+<div style="display: flex">
+  <img width="250px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile1.png">
+  <img width="250px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile2.png">
+  <img width="250px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile3.png">
 <div>
