@@ -101,14 +101,14 @@ code {
 @media screen and (max-width: 480px) {
   .header {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
     align-items: center;
   }
   .header .github-stars {
     position: static;
     /* margin-bottom: 48px; */
-    margin-bottom: 32px;
+    margin-top: 32px;
     padding-left: 35%;
   }
 }
