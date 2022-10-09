@@ -16,6 +16,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 - [I Want To Contribute](#i-want-to-contribute)
 - [Reporting Bugs](#reporting-bugs)
 - [Suggesting Enhancements](#suggesting-enhancements)
+- [Contributors](#contributors)
 
 
 
@@ -37,7 +38,7 @@ We will then take care of the issue as soon as possible.
 > ### Legal Notice 
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
 
-### Reporting Bugs
+## Reporting Bugs
 
 #### Before Submitting a Bug Report
 
@@ -72,7 +73,7 @@ Once it's filed:
 - If the team is able to reproduce the issue, it will be marked `needs-fix`, as well as possibly other tags (such as `critical`), and the issue will be left to be [implemented by someone](#your-first-code-contribution).
 
 
-### Suggesting Enhancements
+## Suggesting Enhancements
 
 This section guides you through submitting an enhancement suggestion for Crypto Rankings, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
 
@@ -91,3 +92,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/eduard
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why. At this point you can also tell which alternatives do not work for you.
 - You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
 - **Explain why this enhancement would be useful** to most Crypto Rankings users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
+
+## Contributors
+
+We recognize all types of contributions. This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. You can post an issue or comment with the text: `@all-contributors please add @<username> for <contributions>` and our nice bot will add you. See the [Emoji Key (Contribution Types Reference)](https://allcontributors.org/docs/en/emoji-key) for a list of valid contribution types.
