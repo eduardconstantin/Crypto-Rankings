@@ -19,3 +19,8 @@ What I learned making this project:
   <img width="250px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile2.png">
   <img width="250px" src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-mobile3.png">
 <div>
+
+### Contributing
+Want to help develop Crypto Rankings? Check out our [contributing documentation](CONTRIBUTING.md).
+
+If you find an issue, please report it on the [issue tracker](https://github.com/eduardconstantin/Crypto-Rankings/issues/new/choose).
