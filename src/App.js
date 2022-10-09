@@ -13,7 +13,9 @@ export default function App() {
         return response.json();
       })
       .then((result) => {
-        setData(result);
+        let responseData = result;
+        responseData?.coins.sort((a, b) => (a.rank === 3 ? 1 : -1));
+        setData(responseData);
       })
       .catch((error) => console.error(error));
   }, []);
