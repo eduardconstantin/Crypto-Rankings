@@ -98,6 +98,35 @@ code {
   opacity: 0.5;
 }
 
+.table > :not(caption) > * > * {
+  border: none;
+}
+
+.table > tbody > tr > th {
+  vertical-align: middle;
+}
+
+.table > tbody > tr {
+  transition: all 0.1s ease;
+  border-radius: 4px;
+}
+
+.table > tbody > tr:hover {
+  background-color: #16191c;
+}
+
+.table thead {
+  color: #f0ded0;
+}
+
+.table tbody {
+  color: #958a81;
+}
+
+.table .icon {
+  width: 2.5rem;
+}
+
 @media screen and (max-width: 480px) {
   .header {
     display: flex;

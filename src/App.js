@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import CryptoCard from "./components/CryptoCard";
+import Table from "./components/Table";
 
 export default function App() {
   const [data, setData] = useState(null);
@@ -55,6 +56,12 @@ export default function App() {
             />
           </div>
         ))}
+      </div>
+      <div className="col-12 text-center page-title">
+        <p>Top 100</p>
+      </div>
+      <div className="row">
+        <Table/>
       </div>
     </div>
   );
