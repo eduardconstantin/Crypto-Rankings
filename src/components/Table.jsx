@@ -5,7 +5,7 @@ export default function Table() {
   const [data, setData] = useState(null);
 
   useEffect(() => {
-    fetch("https://api.coinstats.app/public/v1/coins?skip=3&limit=100")
+    fetch("https://api.coinstats.app/public/v1/coins?skip=3&limit=97")
     .then((response) => {
       if (!response.ok) {
         throw response;
